@@ -9,7 +9,7 @@
 /* Begin PBXBuildFile section */
 		D0E496C82B318F0A00346330 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0E496C72B318F0A00346330 /* AppDelegate.swift */; };
 		D0E496CA2B318F0A00346330 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0E496C92B318F0A00346330 /* SceneDelegate.swift */; };
-		D0E496CC2B318F0A00346330 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0E496CB2B318F0A00346330 /* ViewController.swift */; };
+		D0E496CC2B318F0A00346330 /* CarpimTablosuTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0E496CB2B318F0A00346330 /* CarpimTablosuTableViewController.swift */; };
 		D0E496CF2B318F0A00346330 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D0E496CD2B318F0A00346330 /* Main.storyboard */; };
 		D0E496D22B318F0A00346330 /* CarpimTablosu.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = D0E496D02B318F0A00346330 /* CarpimTablosu.xcdatamodeld */; };
 		D0E496D42B318F0A00346330 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D0E496D32B318F0A00346330 /* Assets.xcassets */; };
@@ -20,7 +20,7 @@
 		D0E496C42B318F0A00346330 /* CarpimTablosu.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CarpimTablosu.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D0E496C72B318F0A00346330 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D0E496C92B318F0A00346330 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		D0E496CB2B318F0A00346330 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		D0E496CB2B318F0A00346330 /* CarpimTablosuTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CarpimTablosuTableViewController.swift; sourceTree = "<group>"; };
 		D0E496CE2B318F0A00346330 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		D0E496D12B318F0A00346330 /* CarpimTablosu.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = CarpimTablosu.xcdatamodel; sourceTree = "<group>"; };
 		D0E496D32B318F0A00346330 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -60,7 +60,7 @@
 			children = (
 				D0E496C72B318F0A00346330 /* AppDelegate.swift */,
 				D0E496C92B318F0A00346330 /* SceneDelegate.swift */,
-				D0E496CB2B318F0A00346330 /* ViewController.swift */,
+				D0E496CB2B318F0A00346330 /* CarpimTablosuTableViewController.swift */,
 				D0E496CD2B318F0A00346330 /* Main.storyboard */,
 				D0E496D32B318F0A00346330 /* Assets.xcassets */,
 				D0E496D52B318F0A00346330 /* LaunchScreen.storyboard */,
@@ -142,7 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D0E496D22B318F0A00346330 /* CarpimTablosu.xcdatamodeld in Sources */,
-				D0E496CC2B318F0A00346330 /* ViewController.swift in Sources */,
+				D0E496CC2B318F0A00346330 /* CarpimTablosuTableViewController.swift in Sources */,
 				D0E496C82B318F0A00346330 /* AppDelegate.swift in Sources */,
 				D0E496CA2B318F0A00346330 /* SceneDelegate.swift in Sources */,
 			);
